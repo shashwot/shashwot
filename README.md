@@ -23,7 +23,7 @@
 <a href= "https://github.com/shashwot/nginx-php-fpm" > <img width ='32px' src ='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nginx_icon_130305.png'> </a>
 <a href= "https://github.com/shashwot/istio-mesh" > <img width ='32px' src ='https://jmtirado.net/wp-content/uploads/2020/05/istio-whitelogo-bluebackground-framed.svg_-795x795.png'> </a>
 <a href= "https://github.com/shashwot/nodejs-api-with-swagger-docs" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= "https://helm.sh/" > <img width ='32px' src ='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_helm_icon_130546.png'> </a>
+<a href= "https://github.com/shashwot/helm-template" > <img width ='32px' src ='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_helm_icon_130546.png'> </a>
 <a href= "https://www.linux.org/" > <img width ='32px' src ='http://cdn.onlinewebfonts.com/svg/img_237140.png'> </a>
 
 
